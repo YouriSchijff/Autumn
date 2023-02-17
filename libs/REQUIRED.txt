@@ -1,0 +1,9 @@
+LWJGL (standard library)
+Assimp
+Glfw
+OpenGL
+stb (with stb image)
+
+and all native libraries
+
+BUILD WITH LWJGL 3.2.0

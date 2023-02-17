@@ -1,0 +1,14 @@
+# Directories
+out/Autumn
+out/Project
+
+./.idea
+./.eclipse
+./.vscode
+
+# Files
+.jar
+.iml
+
+# Exclude
+
