@@ -1,5 +1,7 @@
 # Autumn
 
+<img src="https://github.com/YouriSchijff/Autumn/raw/master/img/Autumn.png">
+
 ## What is it?
 
 Autumn is an application framework with a template, using LWJGL (OpenGL, GLFW, etc.)
