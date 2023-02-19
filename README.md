@@ -1,6 +1,6 @@
 # Autumn
 
-<img src="https://github.com/YouriSchijff/Autumn/raw/master/img/Autumn.png">
+<img src="https://github.com/YouriSchijff/Autumn/raw/master/img/Autumn.png" width=25% height=25%>
 
 ## What is it?
 
